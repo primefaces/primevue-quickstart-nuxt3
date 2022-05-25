@@ -1,7 +1,7 @@
 <template>
 	<div class="container">
 		<div>
-			<img alt="Vue logo" src="./assets/primevue-logo.png">
+			<img alt="Vue logo" src="~/assets/primevue-logo.png">
 			<Toast />
 			
 			<div >

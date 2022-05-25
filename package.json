@@ -8,11 +8,12 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "nuxt3": "latest",
+    "nuxt": "3.0.0-rc.3",
     "primevue": "3.10.0"
   },
   "dependencies": {
     "primeflex": "3.1.2",
-    "primeicons": "5.0.0"
+    "primeicons": "5.0.0",
+    "sass": "^1.52.1"
   }
 }
