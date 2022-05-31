@@ -3,16 +3,15 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "nuxt dev",
     "build": "nuxt build",
-    "start": "node .output/server/index.mjs"
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
   },
   "devDependencies": {
-    "nuxt3": "latest",
-    "primevue": "3.10.0"
-  },
-  "dependencies": {
-    "primeflex": "3.1.2",
+    "nuxt": "3.0.0-rc.3",
+    "primevue": "3.10.0",
+    "primeflex": "3.2.0",
     "primeicons": "5.0.0"
   }
 }
